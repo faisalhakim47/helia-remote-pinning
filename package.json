@@ -175,8 +175,8 @@
     "sinon": "^17.0.1"
   },
   "peerDependencies": {
-    "@ipfs-shipyard/pinning-service-client": "^1.0.3",
-    "helia": "^2.1.0"
+    "@ipfs-shipyard/pinning-service-client": "^2.0.0",
+    "helia": "^4.2.6"
   },
   "publishConfig": {
     "access": "public"
